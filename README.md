@@ -7,5 +7,6 @@ ejemplo de uso:
 !aniversario axel sofi 29-05-2025 07:04
 
 -----------
-formato de reloj 24 horas
+formato de reloj 24 horas.
+
 *ya se que el nombre esta mal pero me da paja cambiarlo esto es para mi y mi polola nomas*
