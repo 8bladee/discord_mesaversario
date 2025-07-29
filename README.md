@@ -1,6 +1,6 @@
 # discord_mesaversario
 bot de discord que registra un mesaversario ingresado por el usuario (español)
-los comandos son !aniversario y !proximoaniversario.
+los comandos son !aniversario, !proximoaniversario y !horario
 añadir un aniversario remplaza el primero que hayas puesto. 
 ejemplo de uso:
 
